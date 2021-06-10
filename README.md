@@ -6,7 +6,7 @@
  > 
 > 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
  > 
-> 🌱 I am currently learning **Sass and Algorithms**
+> 🌱 I am currently learning **VueJS and Algorithm**
 
 
 <div align="center"">
