@@ -2,7 +2,7 @@
 
 > 💻 Passionate Web Developer - Frontend
  >
-> 💬 Ask me about **Vue, Bootstrap and Git**
+> 💬 Ask me about ****
  > 
 > 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
  > 
