@@ -2,11 +2,9 @@
 
 > 💻 Passionate Web Developer - Frontend
  >
-> 💬 Ask me about ****
- > 
 > 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
  > 
-> 🌱 I am currently learning **Javascript,HTML CSS,VueJS and Algorithm**
+> 🌱 I am currently learning **Javascript,HTML CSS,VueJS **
 
 
 <div align="center"">
