@@ -4,7 +4,7 @@
  >
 > 🏫 Currently I am a student of **Greenwich Vietnam University (Major: Computing)**
  > 
-> 🌱 I am currently learning **Javascript,HTML CSS,VueJS **
+> 🌱 I am currently learning **Javascript,HTML CSS,VueJS, ReactJS, NodeJS, **
 
 
 <div align="center"">
