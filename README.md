@@ -1,6 +1,9 @@
 ## Le Dinh Thang
 
-Frontend Developer – Full Stack Developer based in Ha Noi. I build enterprise web apps with Vue.js, React, Node.js and Spring Boot.
+Frontend Developer – Full Stack Developer building enterprise web apps with Vue.js, React, Node.js and Spring Boot.
+
+- **Currently** Frontend Developer at **LG CNS**, leading the frontend team on an ML & DL platform
+- **Location** Ha Noi, Vietnam
 
 [Résumé](https://me.victorle.xyz) · [Email](mailto:ldthang.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thangld0110/)
 
