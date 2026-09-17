@@ -1,11 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-  <img alt="Le Dinh Thang — Frontend Developer – Full Stack Developer" src="./assets/banner-light.svg" width="100%" />
-</picture>
+## Le Dinh Thang
 
-Frontend developer with nearly five years of experience delivering enterprise web applications — Vue.js and React on the frontend, Node.js and Java Spring Boot behind it.
+Frontend Developer – Full Stack Developer based in Ha Noi. I build enterprise web apps with Vue.js, React, Node.js and Spring Boot.
 
-**Résumé** [me.victorle.xyz](https://me.victorle.xyz) &nbsp;·&nbsp; **Email** [ldthang.work@gmail.com](mailto:ldthang.work@gmail.com) &nbsp;·&nbsp; **LinkedIn** [thangld0110](https://www.linkedin.com/in/thangld0110/)
+[Résumé](https://me.victorle.xyz) · [Email](mailto:ldthang.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thangld0110/)
 
 ### Stack
 
