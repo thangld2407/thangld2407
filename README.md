@@ -9,7 +9,7 @@ I care about maintainable code and solid testing, and I enjoy working closely wi
 - **Currently** Frontend Developer at **LG CNS**, working on an ML & DL platform
 - **Location** Ha Noi, Vietnam
 
-[Résumé](https://me.victorle.xyz) · [Email](mailto:ldthang.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thangld0110/)
+[Portfolio](https://me.victorle.xyz) · [Email](mailto:ldthang.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thangld0110/)
 
 ### Stack
 
