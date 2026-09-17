@@ -1,8 +1,12 @@
 ## Le Dinh Thang
 
-Frontend Developer – Full Stack Developer building enterprise web apps with Vue.js, React, Node.js and Spring Boot.
+Frontend Developer – Full Stack Developer with nearly five years of experience building enterprise web applications.
 
-- **Currently** Frontend Developer at **LG CNS**, leading the frontend team on an ML & DL platform
+I work mostly with Vue.js and React on the frontend, backed by Node.js and Java Spring Boot services. Lately my work has centred on AI and big-data platforms: interfaces for configuring training pipelines and deploying models, real-time dashboards for resource usage and service health, and shared component libraries that keep a large codebase consistent.
+
+I care about maintainable code and solid testing, and I enjoy working closely with product owners and designers to turn business requirements into clear, usable interfaces.
+
+- **Currently** Frontend Developer at **LG CNS**, working on an ML & DL platform
 - **Location** Ha Noi, Vietnam
 
 [Résumé](https://me.victorle.xyz) · [Email](mailto:ldthang.work@gmail.com) · [LinkedIn](https://www.linkedin.com/in/thangld0110/)
