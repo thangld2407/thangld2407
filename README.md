@@ -1,38 +1,38 @@
-# Hi there 👋, I'm Thang Le
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <img alt="Le Dinh Thang — Frontend Developer – Full Stack Developer" src="./assets/banner-light.svg" width="100%" />
+</picture>
 
-## Frontend Developer passionate about creating beautiful, responsive web experiences
+Frontend developer with nearly five years of experience delivering enterprise web applications — Vue.js and React on the frontend, Node.js and Java Spring Boot behind it.
 
-I'm a frontend developer who loves turning designs into pixel-perfect, accessible, and high-performance web applications. With a keen eye for detail and a dedication to clean code, I strive to create delightful user experiences.
+**Résumé** [me.victorle.xyz](https://me.victorle.xyz) &nbsp;·&nbsp; **Email** [ldthang.work@gmail.com](mailto:ldthang.work@gmail.com) &nbsp;·&nbsp; **LinkedIn** [thangld0110](https://www.linkedin.com/in/thangld0110/)
 
-### 🔭 Currently working on
-- Improving my Vue Component Architecture
-- Learning more about Web Accessibility
-- Learning more about data structure and algorithm
+### Stack
 
-### 🛠️ Tech Stack
-```
-Frontend: React, Vue, TypeScript, JavaScript, HTML5, CSS3/SASS
-Backend: ExpressJS
-UI Libraries: Tailwind CSS, Ant Design, Bootstrap Vue
-State Management: Redux, Context API, VueX, Pinia
-Build Tools: Webpack, Vite
-Version Control: Git
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vue,pinia,react,redux,nextjs,js,html,css,tailwind,sass,nodejs,express,java,spring,mysql,mongodb,redis,docker,kubernetes,jenkins,aws,kafka,grafana,vitest,jest,git,gitlab,figma&theme=dark&perline=14" />
+  <img alt="Vue.js, Pinia, React, Redux, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Sass, Node.js, Express, Java, Spring Boot, MySQL, MongoDB, Redis, Docker, Kubernetes, Jenkins, AWS, Kafka, Grafana, Vitest, Jest, Git, GitLab, Figma" src="https://skillicons.dev/icons?i=vue,pinia,react,redux,nextjs,js,html,css,tailwind,sass,nodejs,express,java,spring,mysql,mongodb,redis,docker,kubernetes,jenkins,aws,kafka,grafana,vitest,jest,git,gitlab,figma&theme=light&perline=14" />
+</picture>
 
-### 🌱 Learning & Growth
-I believe in continuous learning. Currently exploring:
-- TypeScript advanced patterns
-- Performance optimization techniques
-- Backend development
+### Activity
 
-### 📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/thangld0110/
-- Facebook: https://www.facebook.com/thangld2407
-- Email: thangld2407@gmail.com
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/stats-dark.svg" />
+    <img alt="GitHub activity: commits, pull requests, issues, repositories, stars" src="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/stats.svg" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/top-langs-dark.svg" />
+    <img alt="Top languages across public repositories" src="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/top-langs.svg" width="49%" />
+  </picture>
+</p>
 
-### 💬 Ask me about
-Frontend development, or collaboration on interesting projects!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thangdev0724&hide_border=true&background=16233B&ring=E0A43B&fire=E0A43B&currStreakNum=EDE7DC&sideNums=EDE7DC&currStreakLabel=E0A43B&sideLabels=9AA6BA&dates=9AA6BA&stroke=2A3A55" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=thangdev0724&hide_border=true&background=FFFDF9&ring=E0A43B&fire=E0A43B&currStreakNum=1B1F27&sideNums=1B1F27&currStreakLabel=94600F&sideLabels=5E6472&dates=5E6472&stroke=E3DDD2" />
+</picture>
 
----
-
-⭐️ From [thangdev0724](https://github.com/thangdev0724)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/github-snake-dark.svg" />
+  <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/github-snake.svg" width="100%" />
+</picture>
