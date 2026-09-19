@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="215" viewBox="0 0 480 215" role="img" aria-label="Top languages">
+  <style>
+    .sans { font-family: Arial, Helvetica, sans-serif; }
+    .row { opacity: 0; animation: rise 0.5s ease-out forwards; }
+    @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .row { animation: none; opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="479" height="214" rx="12" fill="#16233B" stroke="#2A3A55"/>
+  <text class="sans" x="28" y="40" font-size="11" font-weight="bold" letter-spacing="2.6" fill="#E0A43B">TOP LANGUAGES</text>
+  <rect x="28" y="50" width="32" height="3" fill="#E0A43B"/>
+  <clipPath id="bar"><rect x="28" y="76" width="424" height="10" rx="5"/></clipPath>
+  <rect x="28" y="76" width="424" height="10" rx="5" fill="#22304A"/>
+  <g clip-path="url(#bar)"><rect x="28.0" y="76" width="294.7" height="10" fill="#E0A43B"/><rect x="322.7" y="76" width="128.9" height="10" fill="#C98A2B"/><rect x="451.6" y="76" width="2.0" height="10" fill="#A8802F"/></g>
+  <g class="row" style="animation-delay:0.20s">
+    <circle cx="33" cy="118" r="5" fill="#E0A43B"/>
+    <text class="sans" x="46" y="122" font-size="14" fill="#EDE7DC">JavaScript</text>
+    <text class="sans" x="224" y="122" font-size="13" fill="#9AA6BA" text-anchor="end">69.5%</text>
+  </g>
+  <g class="row" style="animation-delay:0.27s">
+    <circle cx="255" cy="118" r="5" fill="#C98A2B"/>
+    <text class="sans" x="268" y="122" font-size="14" fill="#EDE7DC">Svelte</text>
+    <text class="sans" x="446" y="122" font-size="13" fill="#9AA6BA" text-anchor="end">30.4%</text>
+  </g>
+  <g class="row" style="animation-delay:0.34s">
+    <circle cx="33" cy="146" r="5" fill="#A8802F"/>
+    <text class="sans" x="46" y="150" font-size="14" fill="#EDE7DC">HTML</text>
+    <text class="sans" x="224" y="150" font-size="13" fill="#9AA6BA" text-anchor="end">0.1%</text>
+  </g>
+</svg>
