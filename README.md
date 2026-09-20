@@ -32,7 +32,7 @@ I care about maintainable code and solid testing, and I enjoy working closely wi
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thangdev0724&hide_border=true&background=16233B&ring=E0A43B&fire=E0A43B&currStreakNum=EDE7DC&sideNums=EDE7DC&currStreakLabel=E0A43B&sideLabels=9AA6BA&dates=9AA6BA&stroke=2A3A55" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thangld2407&hide_border=true&background=16233B&ring=E0A43B&fire=E0A43B&currStreakNum=EDE7DC&sideNums=EDE7DC&currStreakLabel=E0A43B&sideLabels=9AA6BA&dates=9AA6BA&stroke=2A3A55" />
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=thangdev0724&hide_border=true&background=FFFDF9&ring=E0A43B&fire=E0A43B&currStreakNum=1B1F27&sideNums=1B1F27&currStreakLabel=94600F&sideLabels=5E6472&dates=5E6472&stroke=E3DDD2" />
 </picture>
 
