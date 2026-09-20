@@ -22,21 +22,21 @@ I care about maintainable code and solid testing, and I enjoy working closely wi
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/stats-dark.svg" />
-    <img alt="GitHub activity: commits, pull requests, issues, repositories, stars" src="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/stats.svg" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangld2407/thangld2407/output/stats-dark.svg" />
+    <img alt="GitHub activity: commits, pull requests, issues, repositories, stars" src="https://raw.githubusercontent.com/thangld2407/thangld2407/output/stats.svg" width="49%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/top-langs-dark.svg" />
-    <img alt="Top languages across public repositories" src="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/top-langs.svg" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangld2407/thangld2407/output/top-langs-dark.svg" />
+    <img alt="Top languages across public repositories" src="https://raw.githubusercontent.com/thangld2407/thangld2407/output/top-langs.svg" width="49%" />
   </picture>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thangld2407&hide_border=true&background=16233B&ring=E0A43B&fire=E0A43B&currStreakNum=EDE7DC&sideNums=EDE7DC&currStreakLabel=E0A43B&sideLabels=9AA6BA&dates=9AA6BA&stroke=2A3A55" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=thangdev0724&hide_border=true&background=FFFDF9&ring=E0A43B&fire=E0A43B&currStreakNum=1B1F27&sideNums=1B1F27&currStreakLabel=94600F&sideLabels=5E6472&dates=5E6472&stroke=E3DDD2" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=thangld2407&hide_border=true&background=FFFDF9&ring=E0A43B&fire=E0A43B&currStreakNum=1B1F27&sideNums=1B1F27&currStreakLabel=94600F&sideLabels=5E6472&dates=5E6472&stroke=E3DDD2" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/github-snake-dark.svg" />
-  <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/thangdev0724/thangdev0724/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thangld2407/thangld2407/output/github-snake-dark.svg" />
+  <img alt="Contribution graph animated as a snake" src="https://raw.githubusercontent.com/thangld2407/thangld2407/output/github-snake.svg" width="100%" />
 </picture>
